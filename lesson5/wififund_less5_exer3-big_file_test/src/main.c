@@ -28,7 +28,7 @@
 /* STEP 3 - Include Zephyr's HTTP parser header file */
 #include <zephyr/net/http/parser.h>
 
-LOG_MODULE_REGISTER(Lesson5_Exercise3, LOG_LEVEL_DBG);
+LOG_MODULE_REGISTER(DAD_HTTP_Test, LOG_LEVEL_DBG);
 
 /* STEP 4 - Define the port number for the server */
 #define SERVER_PORT 8080
